@@ -2,4 +2,6 @@ Flask
 flask-cors
 flask-bcrypt
 flask-jwt-extended
+flask-sqlalchemy
 gunicorn
+python-dotenv
