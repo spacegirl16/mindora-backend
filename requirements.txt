@@ -4,4 +4,7 @@ flask-bcrypt
 flask-jwt-extended
 flask-sqlalchemy
 gunicorn
+transformers
+torch
 python-dotenv
+requests
